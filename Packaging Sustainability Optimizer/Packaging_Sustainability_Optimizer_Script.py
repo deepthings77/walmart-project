@@ -153,7 +153,9 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    optimizer = PackagingSustainabilityOptimizer(args.data_file)
+    data_file = "E:\walmart-project\Packaging Sustainability Optimizer\material_data.csv"
+
+    optimizer = PackagingSustainabilityOptimizer(data_file)
 
     # Run optimization
     results = optimizer.optimize(

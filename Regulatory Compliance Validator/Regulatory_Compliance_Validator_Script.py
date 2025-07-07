@@ -106,8 +106,8 @@ class RegulatoryComplianceValidator:
 
 if __name__ == "__main__":
     # Example usage
-    data_file = "compliance_data.csv"  # Replace with the path to your compliance data file
-    regulations_file = "regulations.csv"  # Replace with the path to your regulations file
+    data_file = "E:/walmart-project/Regulatory Compliance Validator/compliance_data.csv"  # Replace with the path to your compliance data file
+    regulations_file = "E:/walmart-project/Regulatory Compliance Validator/regulations.csv"  # Replace with the path to your regulations file
 
     try:
         validator = RegulatoryComplianceValidator(data_file, regulations_file)

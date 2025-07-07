@@ -1,0 +1,8 @@
+Entity,Requirement,Status,Date
+Plant A,Emission Limit,95,2024-12-01
+Plant B,Water Usage,4500,2024-11-15
+Plant C,Energy Consumption,12000,2024-12-10
+Plant A,Waste Disposal,80,2024-12-03
+Plant D,Emission Limit,110,2024-12-08
+Plant E,Energy Consumption,10000,2024-11-28
+Plant F,Waste Disposal,120,2024-12-05

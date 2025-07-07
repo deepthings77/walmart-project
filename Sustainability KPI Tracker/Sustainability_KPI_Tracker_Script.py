@@ -123,7 +123,7 @@ class SustainabilityKPITracker:
 
 if __name__ == "__main__":
     # Example usage
-    data_file = "sustainability_kpis.csv"  # Replace with the path to your KPI data file
+    data_file = "E:/walmart-project/Sustainability KPI Tracker/kpi_data.csv"  # Replace with the path to your KPI data file
     tracker = SustainabilityKPITracker(data_file)
 
     # Calculate performance metrics

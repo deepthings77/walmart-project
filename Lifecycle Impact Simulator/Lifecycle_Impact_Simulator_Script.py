@@ -124,7 +124,7 @@ class LifecycleImpactSimulator:
 
 if __name__ == "__main__":
     # Example usage
-    data_file = "lifecycle_data.csv"  # Replace with the actual path to your data file
+    data_file = "E:/walmart-project/Lifecycle Impact Simulator/lifecycle_data.csv"  # Replace with the actual path to your data file
     simulator = LifecycleImpactSimulator(data_file)
 
     # Run simulation

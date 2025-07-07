@@ -36,6 +36,9 @@ python packaging_optimizer.py example_data/packaging_data.csv \
   --weight_durability 0.1 \  # Weight for durability (0.0 - 1.0, higher value = more focus on durable materials)
   --output_file results.csv  # Name of the file where results will be saved
 ```
+<!-- 
+ python "E:\walmart-project\Packaging Sustainability Optimizer\Packaging_Sustainability_Optimizer_Script.py" "E:\walmart-project\Packaging Sustainability Optimizer\material_data.csv" --output_file results.csv --weight_cost 0.3 --weight_recyclability 0.4 --weight_carbon_footprint 0.2 --weight_durability 0.1
+ -->
 
 ## Input Data Format
 The script expects a CSV file with the following columns:

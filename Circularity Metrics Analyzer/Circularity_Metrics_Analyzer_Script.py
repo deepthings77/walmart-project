@@ -55,7 +55,7 @@ def preprocess_data(file_path: str) -> pd.DataFrame:
             raise ValueError(f"Input data is missing required columns: {missing_columns}")
 
         # Fill missing values with column means
-        df.fillna(df.mean(), inplace=True)
+        df.fillna(df.mean(numeric_only=True), inplace=True)
 
         # Scale numerical features
         scaler = StandardScaler()
@@ -156,8 +156,8 @@ def main() -> None:
     """
     Main function to execute the Circularity Metrics Analyzer.
     """
-    file_path = 'packaging_data.csv'  # Example input file
-    output_path = 'circularity_results.csv'
+    file_path = 'E:/walmart-project/Circularity Metrics Analyzer/packaging_data.csv'  # Example input file
+    output_path = 'E:\walmart-project\Circularity Metrics Analyzer\circularity_results.csv'
 
     try:
         # Load and preprocess data

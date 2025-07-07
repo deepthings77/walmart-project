@@ -1,0 +1,8 @@
+Entity,Requirement,Status,Date,Description,Threshold,Compliance
+Plant A,Emission Limit,95,2024-12-01,Maximum allowed emissions per day (ppm),100,Non-Compliant
+Plant B,Water Usage,4500,2024-11-15,Maximum allowed water usage per day (liters),5000,Non-Compliant
+Plant C,Energy Consumption,12000,2024-12-10,Maximum allowed energy use per day (kWh),11000,Compliant
+Plant A,Waste Disposal,80,2024-12-03,Maximum waste disposal limit per day (kg),100,Non-Compliant
+Plant D,Emission Limit,110,2024-12-08,Maximum allowed emissions per day (ppm),100,Compliant
+Plant E,Energy Consumption,10000,2024-11-28,Maximum allowed energy use per day (kWh),11000,Non-Compliant
+Plant F,Waste Disposal,120,2024-12-05,Maximum waste disposal limit per day (kg),100,Compliant

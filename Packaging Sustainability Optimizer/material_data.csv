@@ -1,0 +1,11 @@
+Material,Cost_per_unit,Recyclability,Carbon_Footprint,Durability
+Aluminum,1.5,0.92,2.1,0.85
+Glass,1.2,0.75,1.8,0.80
+PET Plastic,0.8,0.60,3.5,0.65
+Paperboard,0.5,0.85,1.2,0.50
+Steel,1.8,0.90,2.5,0.88
+Bioplastic,1.0,0.50,0.9,0.40
+Cardboard,0.6,0.80,1.4,0.55
+HDPE,0.9,0.65,3.1,0.70
+LDPE,0.7,0.55,3.3,0.60
+Compostable Film,1.1,0.30,0.7,0.35

@@ -1,0 +1,5 @@
+Requirement,Description,Threshold
+Emission Limit,Maximum allowed emissions per day (ppm),100
+Water Usage,Maximum allowed water usage per day (liters),5000
+Energy Consumption,Maximum allowed energy use per day (kWh),11000
+Waste Disposal,Maximum waste disposal limit per day (kg),100

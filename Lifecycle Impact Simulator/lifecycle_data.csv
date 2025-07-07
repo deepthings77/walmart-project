@@ -1,0 +1,8 @@
+Stage,Cost,Carbon_Footprint,Water_Usage,Energy_Consumption
+Raw Material Extraction,12000,5.2,3000,2500
+Manufacturing,18000,7.5,4000,5000
+Packaging,5000,2.1,1200,1500
+Transportation,8000,3.8,800,2200
+Usage,2000,0.5,500,100
+End-of-Life (Disposal),3000,2.9,600,1200
+Recycling,4000,1.2,700,1800
