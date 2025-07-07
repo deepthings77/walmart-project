@@ -14,7 +14,3 @@ This repository serves as a hub for solutions that:
 
 By integrating AI-powered insights with actionable strategies, this repository empowers organizations to achieve their sustainability goals while contributing to a more circular and responsible future.
 
-## Contact
-For questions, suggestions, please contact:  
-  
-Email: johnjohnsonogbidi@gmail.com
