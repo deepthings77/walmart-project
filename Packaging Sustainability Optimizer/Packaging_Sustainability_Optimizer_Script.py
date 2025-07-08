@@ -33,10 +33,15 @@ class PackagingSustainabilityOptimizer:
         columns_to_normalize = ['Cost_per_unit', 'Recyclability', 'Carbon_Footprint', 'Durability']
         for col in columns_to_normalize:
             if col in self.data.columns:
-                self.data[f"{col}_normalized"] = (
-                    (self.data[col] - self.data[col].min()) /
-                    (self.data[col].max() - self.data[col].min())
-                )
+                col_min = self.data[col].min()
+                col_max = self.data[col].max()
+                if col_max - col_min == 0:
+                    print(f"[Warning] Column '{col}' has zero variance. Setting normalized values to 0.")
+                    self.data[f"{col}_normalized"] = 0
+                else:
+                    self.data[f"{col}_normalized"] = (
+                        (self.data[col] - col_min) / (col_max - col_min)
+                    )
 
     def optimize(self, weight_cost=0.3, weight_recyclability=0.4, weight_carbon_footprint=0.2, weight_durability=0.1):
         """

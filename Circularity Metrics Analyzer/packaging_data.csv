@@ -1,11 +1,14 @@
 material,recyclability,reuse_potential,end_of_life_recovery,carbon_footprint
-Aluminum,0.92,0.80,0.85,2.1
-Glass,0.75,0.65,0.70,1.8
-PET Plastic,0.60,0.30,0.40,3.5
-Paperboard,0.85,0.55,0.60,1.2
-Steel,0.90,0.70,0.80,2.5
-Bioplastic,0.50,0.40,0.30,0.9
-Cardboard,0.80,0.60,0.65,1.4
-HDPE,0.65,0.35,0.50,3.1
-LDPE,0.55,0.25,0.40,3.3
-Compostable Film,0.30,0.10,0.20,0.7
+Aluminum,0.95,0.85,0.90,2.5
+Steel,0.88,0.80,0.85,3.2
+PET Plastic,0.65,0.50,0.60,4.8
+HDPE Plastic,0.70,0.60,0.65,4.2
+PVC Plastic,0.30,0.25,0.20,6.5
+Glass,0.98,0.90,0.95,1.8
+Paper,0.85,0.40,0.75,1.2
+Cardboard,0.90,0.50,0.80,1.0
+Wood,0.60,0.75,0.55,0.8
+Concrete,0.20,0.10,0.15,8.0
+Batteries (Li-ion),0.50,0.30,0.45,12.0
+Textiles (Cotton),0.25,0.70,0.30,3.5
+Electronic Waste,0.40,0.35,0.25,15.0

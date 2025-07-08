@@ -1,11 +1,29 @@
 Material,Score
-Aluminum,0.0
-Glass,0.0
+Aluminum (Virgin),0.0
+Aluminum (Recycled),0.0
+Steel (Virgin),0.0
+Steel (Recycled),0.0
 PET Plastic,0.0
-Paperboard,0.0
-Steel,0.0
-Bioplastic,0.0
+HDPE Plastic,0.0
+PVC Plastic,0.0
+PP Plastic,0.0
+LDPE Plastic,0.0
+Glass (Virgin),0.0
+Glass (Recycled),0.0
+Paper (Virgin),0.0
 Cardboard,0.0
-HDPE,0.0
-LDPE,0.0
-Compostable Film,0.0
+Copper (Virgin),0.0
+Copper (Recycled),0.0
+Concrete,0.0
+Brick,0.0
+Wood (Softwood),0.0
+Wood (Hardwood),0.0
+Plywood,0.0
+Bamboo,0.0
+Cotton (Virgin),0.0
+Cotton (Recycled),0.0
+Polyester (Virgin),0.0
+Polyester (Recycled),0.0
+Wool,0.0
+Silk,0.0
+Paper (Recycled),1.1102230246251566e-17

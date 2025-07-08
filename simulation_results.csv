@@ -1,8 +1,21 @@
 Stage,Impact_Score
-Raw Material Extraction,0.0
-Packaging,0.0
-Transportation,0.0
-Usage,0.0
-End-of-Life (Disposal),0.0
-Recycling,0.0
-Manufacturing,5.181040696466966e-09
+Usage - Cotton,0.0015037593984962407
+Usage - PET Plastic,0.00651988930714168
+Usage - Aluminum,0.013541031747115441
+Usage - Steel,0.023139079127312775
+Landfill - PET Plastic,0.035611980280871695
+Recycling - Cotton,0.042003991936775495
+Disposal - Aluminum,0.05393545995107354
+Transportation - Cotton,0.068901248564141
+Recycling - Steel,0.08312564804656375
+Transportation - PET Plastic,0.08876665411503441
+Transportation - Aluminum,0.12292006995200949
+Transportation - Steel,0.1427854755029029
+Extraction - PET Plastic,0.18322294865310162
+Extraction - Cotton,0.32470022043934493
+Extraction - Aluminum,0.3369462858964445
+Extraction - Steel,0.4329223136896915
+Manufacturing - Cotton,0.5477033346942487
+Manufacturing - PET Plastic,0.5809059370913565
+Manufacturing - Aluminum,0.7314289871990894
+Manufacturing - Steel,0.899749373433584

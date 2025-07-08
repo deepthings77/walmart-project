@@ -1,11 +1,21 @@
 KPI,Target,Actual,Date,Performance,Status
-Energy Efficiency,95,92.0,2025-07-01,96.84210526315789,Needs Improvement
-Waste Reduction,80,78.0,2025-07-01,97.5,Needs Improvement
-Water Usage Efficiency,90,88.0,2025-07-01,97.77777777777777,Needs Improvement
-Carbon Emissions,100,110.0,2025-07-01,110.00000000000001,On Track
-Employee Satisfaction,85,83.0,2025-07-01,97.6470588235294,Needs Improvement
-On-Time Delivery,98,97.0,2025-07-01,98.9795918367347,Needs Improvement
-Customer Satisfaction,90,89.0,2025-07-01,98.88888888888889,Needs Improvement
-Equipment Downtime,5,7.0,2025-07-01,140.0,On Track
-Product Defect Rate,2,2.5,2025-07-01,125.0,On Track
-Recycling Rate,70,75.0,2025-07-01,107.14285714285714,On Track
+Recycling Rate (%),75,72.5,2023-01-31,96.66666666666667,Needs Improvement
+Carbon Emissions (tons CO2e),1000,1100.0,2023-01-31,110.00000000000001,On Track
+Energy Consumption (MWh),5000,5200.0,2023-01-31,104.0,On Track
+Water Usage (kL),20000,21500.0,2023-01-31,107.5,On Track
+Waste Generated (tons),50,55.0,2023-01-31,110.00000000000001,On Track
+Renewable Energy (%),30,28.0,2023-01-31,93.33333333333333,Needs Improvement
+Employee Commute Emissions (kg CO2e),5000,5300.0,2023-01-31,106.0,On Track
+Paper Recycling Rate (%),90,88.0,2023-01-31,97.77777777777777,Needs Improvement
+Plastic Waste Recycled (kg),1000,950.0,2023-01-31,95.0,Needs Improvement
+Supplier Sustainability Compliance (%),80,75.0,2023-01-31,93.75,Needs Improvement
+Recycling Rate (%),75,73.2,2023-02-28,97.60000000000001,Needs Improvement
+Carbon Emissions (tons CO2e),1000,1050.0,2023-02-28,105.0,On Track
+Energy Consumption (MWh),5000,5100.0,2023-02-28,102.0,On Track
+Water Usage (kL),20000,21000.0,2023-02-28,105.0,On Track
+Waste Generated (tons),50,52.0,2023-02-28,104.0,On Track
+Renewable Energy (%),30,29.0,2023-02-28,96.66666666666667,Needs Improvement
+Employee Commute Emissions (kg CO2e),5000,5100.0,2023-02-28,102.0,On Track
+Paper Recycling Rate (%),90,89.0,2023-02-28,98.88888888888889,Needs Improvement
+Plastic Waste Recycled (kg),1000,980.0,2023-02-28,98.0,Needs Improvement
+Supplier Sustainability Compliance (%),80,77.0,2023-02-28,96.25,Needs Improvement

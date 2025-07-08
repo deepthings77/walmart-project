@@ -29,12 +29,7 @@ A sample dataset is provided in `example_data/packaging_data.csv` to help you ge
 ### Running the Script
 To run the optimizer:
 ```bash
-python packaging_optimizer.py example_data/packaging_data.csv \
-   --weight_cost 0.3 \  # Weight for cost efficiency (0.0 - 1.0, higher value = more focus on cost reduction)
-  --weight_recyclability 0.4 \  # Weight for recyclability (0.0 - 1.0, higher value = more focus on recyclable materials)
-  --weight_carbon_footprint 0.2 \  # Weight for minimizing carbon footprint (0.0 - 1.0, higher value = more focus on low-emission materials)
-  --weight_durability 0.1 \  # Weight for durability (0.0 - 1.0, higher value = more focus on durable materials)
-  --output_file results.csv  # Name of the file where results will be saved
+python "E:\walmart-project\Packaging Sustainability Optimizer\Packaging_Sustainability_Optimizer_Script.py" "E:\walmart-project\Packaging Sustainability Optimizer\material_data.csv" --output_file results.csv --weight_cost 0.3 --weight_recyclability 0.4 --weight_carbon_footprint 0.2 --weight_durability 0.1
 ```
 <!-- 
  python "E:\walmart-project\Packaging Sustainability Optimizer\Packaging_Sustainability_Optimizer_Script.py" "E:\walmart-project\Packaging Sustainability Optimizer\material_data.csv" --output_file results.csv --weight_cost 0.3 --weight_recyclability 0.4 --weight_carbon_footprint 0.2 --weight_durability 0.1

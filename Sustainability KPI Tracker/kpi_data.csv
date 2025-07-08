@@ -1,11 +1,21 @@
 KPI,Target,Actual,Date
-Energy Efficiency,95,92,2025-07-01
-Waste Reduction,80,78,2025-07-01
-Water Usage Efficiency,90,88,2025-07-01
-Carbon Emissions,100,110,2025-07-01
-Employee Satisfaction,85,83,2025-07-01
-On-Time Delivery,98,97,2025-07-01
-Customer Satisfaction,90,89,2025-07-01
-Equipment Downtime,5,7,2025-07-01
-Product Defect Rate,2,2.5,2025-07-01
-Recycling Rate,70,75,2025-07-01
+Recycling Rate (%),75,72.5,2023-01-31
+Carbon Emissions (tons CO2e),1000,1100,2023-01-31
+Energy Consumption (MWh),5000,5200,2023-01-31
+Water Usage (kL),20000,21500,2023-01-31
+Waste Generated (tons),50,55,2023-01-31
+Renewable Energy (%),30,28,2023-01-31
+Employee Commute Emissions (kg CO2e),5000,5300,2023-01-31
+Paper Recycling Rate (%),90,88,2023-01-31
+Plastic Waste Recycled (kg),1000,950,2023-01-31
+Supplier Sustainability Compliance (%),80,75,2023-01-31
+Recycling Rate (%),75,73.2,2023-02-28
+Carbon Emissions (tons CO2e),1000,1050,2023-02-28
+Energy Consumption (MWh),5000,5100,2023-02-28
+Water Usage (kL),20000,21000,2023-02-28
+Waste Generated (tons),50,52,2023-02-28
+Renewable Energy (%),30,29,2023-02-28
+Employee Commute Emissions (kg CO2e),5000,5100,2023-02-28
+Paper Recycling Rate (%),90,89,2023-02-28
+Plastic Waste Recycled (kg),1000,980,2023-02-28
+Supplier Sustainability Compliance (%),80,77,2023-02-28
