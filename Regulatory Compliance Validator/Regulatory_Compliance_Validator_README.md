@@ -62,9 +62,3 @@ python regulatory_compliance_validator.py compliance_data.csv regulations.csv
 
 ## License
 This project is licensed under the MIT License.
-
-## Contributing
-Contributions are welcome! 
-
-## Contact
-For questions or feedback, contact johnjohnsonogbidi@gmail.com
