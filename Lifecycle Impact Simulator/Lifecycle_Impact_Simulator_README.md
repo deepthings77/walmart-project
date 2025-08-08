@@ -61,8 +61,3 @@ python lifecycle_impact_simulator.py example_data/lifecycle_data.csv
 ## License
 This project is licensed under the MIT License. 
 
-## Contributing
-Contributions are welcome! 
-
-## Contact
-For questions or feedback, please contact johnjohnsonogbidi@gmail.com
